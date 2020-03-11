@@ -70,6 +70,9 @@
     }
     
      .site-main .about-area {
-        padding: 27% 4%;
+       padding-top: 30%;
+    padding-bottom: 47%;
+    padding-right: 4%;
+    padding-left: 4%;
     }
 }
