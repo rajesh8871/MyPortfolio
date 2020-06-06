@@ -68,11 +68,10 @@
     .site-main .about-area {
         padding: 5% 4%;
     }
-    
-     .site-main .about-area {
-       padding-top: 26%;
-    padding-bottom: 0%;
-    padding-right: 4%;
-    padding-left: 4%;
+    .site-main .about-area {
+        padding-top: 10rem;
+        padding-bottom: 10rem;
+        padding-right: 4%;
+        padding-left: 4%;
     }
 }
